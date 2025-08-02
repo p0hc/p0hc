@@ -17,20 +17,9 @@ i'm always excited to learn new things and build projects that make a difference
 
 - **lua** - scripting and game development
 - **roblox studio** - creating games and experiences
-- **c++** - system programming and performance-critical applications  
-- **python** - automation, data projects, and general programming
-
-## currently working on
-
-- exploring new roblox game mechanics
-- improving my c++ skills with fun projects
-- building useful python scripts
-- learning best practices and clean code techniques
+- **c++** - game cheats and automation
+- **python** - automation and fun coding
 
 ## let's connect!
 
-feel free to check out my repositories and don't hesitate to reach out if you want to collaborate on something cool!
-
----
-
-*always coding, always learning* ⚡
+feel free to check out my repositories and don't hesitate to reach out if you want or need help!

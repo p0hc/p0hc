@@ -4,7 +4,7 @@ welcome to my github profile! i'm a passionate developer who loves creating cool
 
 ## about me
 
-i'm always excited to learn new things and build projects that make a difference. coding isn't just my hobby - it's my passion!
+i'm always excited to learn new things and build projects that make a difference. coding **is** just my hobby
 
 ## what i work with
 
